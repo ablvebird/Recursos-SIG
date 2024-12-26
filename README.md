@@ -5,83 +5,82 @@ Aquí encontrarás una lista de sitios oficiales, enlaces de descarga, y descrip
 
 ---
 
-## 1. Recursos Nacionales
+## 1. Instituciones Nacionales
 
-### Centro Nacional de Información Geográfica (CNIG)
-- **Descripción**: Organismo encargado de la producción, actualización y distribución de cartografía oficial en España.
-- **Link**: [CNIG](https://www.cnig.es/)
-#### Datasets de interés
-- Cartografía nacional a diversas escalas.
-- Modelos digitales del terreno.
+<details>
+<summary><a href="https://www.cnig.es/">Centro Nacional de Información Geográfica (CNIG)</a></summary>
 
-### Infraestructura de Datos Espaciales de España (IDEE)
-- **Descripción**: Plataforma que integra y distribuye datos espaciales procedentes de diversas fuentes oficiales en España.
-- **Link**: [IDEE](https://www.idee.es/)
-#### Datasets de interés
-- Capas de referencia geográfica.
-- Servicios WMS y WFS.
+El CNIG, o Instituto Geográfico Nacional, es un organismo encargado de la producción, actualización y distribución de cartografía oficial en España.
 
-### Ministerio para la Transición Ecológica y el Reto Demográfico (MITECO)
-- **Descripción**: Ministerio que gestiona datos sobre medio ambiente, biodiversidad y recursos hídricos en España.
-- **Link**: [MITECO](https://www.miteco.gob.es/)
-#### Datasets de interés
-- Inventarios forestales.
-- Datos sobre cambio climático.
+En su centro de [descargas](https://centrodedescargas.cnig.es/CentroDescargas/index.jsp) podemos acceder a sus bases cartográficas y diferentes mapas creados con dichos datos.
 
-### Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA)
-- **Descripción**: Ministerio responsable de la planificación de infraestructuras y movilidad en España.
-- **Link**: [MITMA](https://www.mitma.gob.es/)
-#### Datasets de interés
-- Cartografía de infraestructuras de transporte.
-- Datos de movilidad urbana y regional.
+Así mismo, el sitio web cuenta con una sección dedicada a la [formación](https://cursos.cnig.es/) en entorno SIG, entre los cuales encontramos una serie de cursos abiertos y gratuitos.
 
-### Instituto Español de Oceanografía (IEO)
-- **Descripción**: Organismo dedicado al estudio del medio marino y los recursos pesqueros.
-- **Link**: [IEO](https://www.ieo.es/)
-#### Datasets de interés
-- Cartografía marina.
-- Datos sobre ecosistemas marinos.
 
-### Instituto Geológico y Minero de España (IGME)
-- **Descripción**: Organismo que investiga recursos geológicos, mineros e hidrogeológicos en España.
-- **Link**: [IGME](https://www.igme.es/)
-#### Datasets de interés
-- Mapas geológicos.
-- Bases de datos hidrogeológicas.
+</details>
 
-### Instituto Nacional de Estadística (INE) - Cartografía Censal
-- **Descripción**: Proporciona datos estadísticos y censales georreferenciados.
-- **Link**: [INE](https://www.ine.es/)
-#### Datasets de interés
-- Datos censales por sección.
-- Mapas temáticos estadísticos.
+<details>
+<summary><a href="https://www.idee.es/">Infraestructura de Datos Espaciales de España (IDEE)</a></summary>
 
-### Agencia Estatal de Meteorología (AEMET)
-- **Descripción**: Organismo que ofrece información meteorológica y climática de España.
-- **Link**: [AEMET](https://www.aemet.es/)
-#### Datasets de interés
-- Datos de precipitación y temperatura.
-- Series históricas meteorológicas.
+Plataforma que integra y distribuye datos espaciales procedentes de diversas fuentes oficiales en España.
 
-### Puertos del Estado
-- **Descripción**: Entidad que gestiona los datos de los puertos y costas de España.
-- **Link**: [Puertos del Estado](https://www.puertos.es/)
-#### Datasets de interés
-- Datos de tráfico portuario.
-- Mapas de batimetría.
+Podemos acceder al [catálogo](https://www.idee.es/csw-inspire-idee/srv/eng/catalog.search#/home) de datos y servicios para explorar los diferentes conjuntos de datos, permitiéndonos organizarlos según la temática y la institución de origen.
+</details>
 
-### Centro de Estudios y Experimentación de Obras Públicas (CEDEX)
-- **Descripción**: Organismo que desarrolla estudios relacionados con la ingeniería y el medio ambiente.
-- **Link**: [CEDEX](https://www.cedex.es/)
-#### Datasets de interés
-- Datos sobre infraestructura hidráulica.
-- Estudios ambientales.
+<details>
+<summary><a href="https://www.miteco.gob.es/">Ministerio para la Transición Ecológica y el Reto Demográfico (MITECO)</a></summary>
 
-### Banco de Datos de la Naturaleza (BDN)
-- **Descripción**: Plataforma que centraliza información sobre biodiversidad y espacios protegidos.
-- **Link**: [BDN](https://www.miteco.gob.es/es/biodiversidad/temas/inventarios-nacionales/banco-datos-naturaleza.aspx)
-#### Datasets de interés
-- Inventarios de especies.
-- Datos de espacios protegidos.
+MITECO gestiona datos sobre medio ambiente, biodiversidad y recursos hídricos en España.
+
+Cuenta con una sección de [SIG](https://www.miteco.gob.es/es/cartografia-y-sig.html) donde podemos encontrar diferentes recursos.
+</details>
+
+<details>
+<summary><a href="https://www.mitma.gob.es/">Ministerio de Transportes, Movilidad y Agenda Urbana (MITMA)</a></summary>
+
+Ministerio responsable de la planificación de infraestructuras y movilidad en España.
+</details>
+
+<details>
+<summary><a href="https://www.ieo.es/">Instituto Español de Oceanografía (IEO)</a></summary>
+
+Organismo dedicado al estudio del medio marino y los recursos pesqueros.
+</details>
+
+<details>
+<summary><a href="https://www.igme.es/">Instituto Geológico y Minero de España (IGME)</a></summary>
+
+Organismo que investiga recursos geológicos, mineros e hidrogeológicos en España.
+</details>
+
+<details>
+<summary><a href="https://www.ine.es/">Instituto Nacional de Estadística (INE) - Cartografía Censal</a></summary>
+
+Proporciona datos estadísticos y censales georreferenciados.
+</details>
+
+<details>
+<summary><a href="https://www.aemet.es/">Agencia Estatal de Meteorología (AEMET)</a></summary>
+
+Organismo que ofrece información meteorológica y climática de España.
+</details>
+
+<details>
+<summary><a href="https://www.puertos.es/">Puertos del Estado</a></summary>
+
+Entidad que gestiona los datos de los puertos y costas de España.
+</details>
+
+<details>
+<summary><a href="https://www.cedex.es/">Centro de Estudios y Experimentación de Obras Públicas (CEDEX)</a></summary>
+
+Organismo que desarrolla estudios relacionados con la ingeniería y el medio ambiente.
+</details>
+
+<details>
+<summary><a href="https://www.miteco.gob.es/es/biodiversidad/temas/inventarios-nacionales/banco-datos-naturaleza.aspx">Banco de Datos de la Naturaleza (BDN)</a></summary>
+
+Plataforma que centraliza información sobre biodiversidad y espacios protegidos.
+</details>
 
 ---
